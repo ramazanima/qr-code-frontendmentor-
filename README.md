@@ -22,7 +22,8 @@ Thank you for visiting my solution to the [QR Code Component challenge](https://
 
 ### Useful Resources
 
-- (Add resources here if any)
+-
+-
 
 ---
 
